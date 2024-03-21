@@ -1,15 +1,15 @@
 ### Hi there 👋
 My name is Michal🙃
 
-🏫##Study
+🏫### Study
 
   I'm currently studying games development at DKIT, Ireland.
   
-🤓##Intrests
+🤓### Intrests
 
   I'm currently working on an indie game which is currently untitled and has the placeholder name of "Dunjo Escape".
   
-👨‍💼##Work
+👨‍💼### Work
 
   I work a part time Job in a small family owned diner where I live.
 

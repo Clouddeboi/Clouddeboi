@@ -15,6 +15,7 @@ My name is Michal🙃
 
 | Programming Languages | Softwares|
 |-----------------|-----------------|
+|-----------------|-----------------|
 | Python | Thonny | 
 | Java | IntelliJ |
 | C++ | CLion |  

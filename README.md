@@ -1,8 +1,25 @@
 ### Hi there 👋
+My name is Michal🙃
 
-My name is Michal and im currently studying games development at DKIT, Ireland.
+🏫Study
+  I'm currently studying games development at DKIT, Ireland.
+  
+🤓Intrests
+  I'm currently working on an indie game which is currently untitled and has the placeholder name of "Dunjo Escape".
+  
+👨‍💼Work
+  I work a part time Job in a small family owned diner where I live.
 
-I'm currently working on an indie game which is currently untitled and has the placeholder name of "Dunjo Escape".
+| Programming Languages |
+|-----------------|
+| Python | 
+| Java |
+| C++ | 
+| C# |
+| HTML |
+| CSS |
+| JavaScript |
+| MySQL |
 <!--
 **Clouddeboi/Clouddeboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

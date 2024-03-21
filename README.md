@@ -13,6 +13,8 @@ My name is Michal🙃
 
   I work a part time Job in a small family owned diner where I live.
 
+### Skills:
+
 | Programming Languages | Softwares|
 |-----------------|-----------------|
 | Python | Thonny | 

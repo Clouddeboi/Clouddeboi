@@ -10,32 +10,21 @@ My name is Michal🙃
 👨‍💼Work
   I work a part time Job in a small family owned diner where I live.
 
-| Programming Languages |
-|-----------------|
-| Python | 
-| Java |
-| C++ | 
-| C# |
-| HTML |
-| CSS |
-| JavaScript |
-| MySQL |
+| Programming Languages | Softwares|
+|-----------------|-----------------|
+| Python | Thonny | 
+| Java | IntelliJ |
+| C++ | CLion |  
+| C# | Unity |
+| HTML | Visual studio code |
+| CSS | Xampp | Maya |
+| JavaScript | Blender |
+| MySQL | Premier Pro |
+|  | Photoshop |
+|  | Fire Alpaca |
+|  | MS Excel  |
+|  | MS Word |
 
-| Softwares|
-|-----------------|
-| Thonny | 
-| IntelliJ |
-| CLion | 
-| Unity |
-| Visual studio code |
-| Xampp |
-| Maya |
-| Blender |
-| Premier Pro |
-| Photoshop |
-| Fire Alpaca |
-| MS Excel |
-| MS Word |
 <!--
 **Clouddeboi/Clouddeboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

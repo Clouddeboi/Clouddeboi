@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Michal and im currently studying games development at DKIT, ireland.
+My name is Michal and im currently studying games development at DKIT, Ireland.
+
+I'm currently working on an indie game which is currently untitled and has the placeholder name of "Dunjo Escape".
 <!--
 **Clouddeboi/Clouddeboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

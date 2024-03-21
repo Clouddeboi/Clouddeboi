@@ -20,6 +20,22 @@ My name is Michal🙃
 | CSS |
 | JavaScript |
 | MySQL |
+
+| Softwares|
+|-----------------|
+| Thonny | 
+| IntelliJ |
+| CLion | 
+| Unity |
+| Visual studio code |
+| Xampp |
+| Maya |
+| Blender |
+| Premier Pro |
+| Photoshop |
+| Fire Alpaca |
+| MS Excel |
+| MS Word |
 <!--
 **Clouddeboi/Clouddeboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

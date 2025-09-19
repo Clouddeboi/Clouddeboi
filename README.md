@@ -1,3 +1,6 @@
+
+![gengar](https://github.com/user-attachments/assets/5b0938ad-1745-44ad-93a3-39878f6ce506)
+
 ### Hi there 👋
 My name is Michal🙃
 
